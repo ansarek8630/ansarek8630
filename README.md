@@ -133,10 +133,10 @@
 <a href="https://portfolio-ansar.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+<a href="https://www.instagram.com/_anza.r/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://x.com/YOUR_X_USERNAME">
+<a href="https://x.com/_anza.r">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
