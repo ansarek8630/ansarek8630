@@ -77,13 +77,6 @@ I'm a mobile application developer based in **Dubai, UAE**, with 3+ years of dev
 
 *Note: Selected professional projects are presented here for experience showcase. Not all project source code is publicly available.*
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansarek8630&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansarek8630&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
